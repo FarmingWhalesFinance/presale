@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.890b67e6.chunk.css",
+    "main.js": "/static/js/main.50d02112.chunk.js",
+    "main.js.map": "/static/js/main.50d02112.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.90931dc4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.90931dc4.js.map",
+    "static/css/2.58a45539.chunk.css": "/static/css/2.58a45539.chunk.css",
+    "static/js/2.2c0b21d6.chunk.js": "/static/js/2.2c0b21d6.chunk.js",
+    "static/js/2.2c0b21d6.chunk.js.map": "/static/js/2.2c0b21d6.chunk.js.map",
+    "static/js/3.2921d4ca.chunk.js": "/static/js/3.2921d4ca.chunk.js",
+    "static/js/3.2921d4ca.chunk.js.map": "/static/js/3.2921d4ca.chunk.js.map",
+    "static/js/4.ced7be4d.chunk.js": "/static/js/4.ced7be4d.chunk.js",
+    "static/js/4.ced7be4d.chunk.js.map": "/static/js/4.ced7be4d.chunk.js.map",
+    "static/js/5.831efbf0.chunk.js": "/static/js/5.831efbf0.chunk.js",
+    "static/js/5.831efbf0.chunk.js.map": "/static/js/5.831efbf0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.58a45539.chunk.css.map": "/static/css/2.58a45539.chunk.css.map",
+    "static/css/main.890b67e6.chunk.css.map": "/static/css/main.890b67e6.chunk.css.map",
+    "static/js/2.2c0b21d6.chunk.js.LICENSE.txt": "/static/js/2.2c0b21d6.chunk.js.LICENSE.txt",
+    "static/js/3.2921d4ca.chunk.js.LICENSE.txt": "/static/js/3.2921d4ca.chunk.js.LICENSE.txt",
+    "static/media/Whaleslogo.png": "/static/media/Whaleslogo.4be3d90a.png",
+    "static/media/App.css": "/static/media/ocean.8a40f732.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90931dc4.js",
+    "static/css/2.58a45539.chunk.css",
+    "static/js/2.2c0b21d6.chunk.js",
+    "static/css/main.890b67e6.chunk.css",
+    "static/js/main.50d02112.chunk.js"
+  ]
+}
